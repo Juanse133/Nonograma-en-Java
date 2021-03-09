@@ -1,0 +1,2 @@
+interfaz.LabelClicMouse
+interfaz.PanelCuadricula
